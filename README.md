@@ -1,27 +1,45 @@
 # Paquets a analyser 
 ## LINUX
--[] WiFi UCL txt
+### Type de co
+-[] WiFi UCL 
 
--[] WiFi UCL image
+-[] WiFi Maison 
 
--[] WiFi Maison txt
+-[] Données mobiles 
+### Type de données
 
--[] WiFi Maison image
+-[] txt
 
--[] Données mobiles txt
+-[] image
+### Action
 
--[] Données mobiles image
+-[] ajout
+
+-[] modification
+
+-[] suppression 
+
+-[] déplacement
 
 ## Windows
--[] WiFi UCL txt
+### Type de co
+-[] WiFi UCL 
 
--[] WiFi UCL image
+-[] WiFi Maison 
 
--[] WiFi Maison txt
+-[] Données mobiles 
+### Type de données
 
--[] WiFi Maison image
+-[] txt
 
--[] Données mobiles txt
+-[] image
+### Action
 
--[] Données mobiles image
+-[] ajout
+
+-[] modification
+
+-[] suppression 
+
+-[] déplacement
 
